@@ -39,8 +39,7 @@ session_start();
 			<div class="logo-header">
 				
 				<a href="#" class="logo">
-					<h1 class="text-white fs-5">SISTEM ALUTSISTA</h1>
-					<!-- <img src="../assets/img/logoazzara.svg" alt="navbar brand" class="navbar-brand"> -->
+					<h1 class="text-white my-3">ALUTSISTA</h1>
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
