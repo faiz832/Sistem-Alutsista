@@ -46,7 +46,7 @@ session_start();
 			<div class="logo-header">
 
 				<a href="#" class="logo">
-					<h1 class="text-white my-3">ALUTSISTA</h1>
+					<h1 class="navbar-brand text-white fw-bold">ALUTSISTA</h1>
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">
